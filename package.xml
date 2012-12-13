@@ -27,10 +27,10 @@
   <active>yes</active>
  </lead>
  <date>2012-12-13</date>
- <time>12:22:25</time>
+ <time>12:27:25</time>
  <version>
-  <release>0.9.3</release>
-  <api>0.9.3</api>
+  <release>0.9.4</release>
+  <api>0.9.4</api>
  </version>
  <stability>
   <release>alpha</release>
@@ -53,11 +53,6 @@ alpha release.
    <file baseinstalldir="/" md5sum="30f6a4c8d7bb208e7d510ec9c4d8033d" name="apps/pc_frontend/templates/_layout.php" role="data" />
    <file baseinstalldir="/" md5sum="c04ce99efe864873ac6781cc1252b699" name="config/config.php" role="data" />
    <file baseinstalldir="/" md5sum="64ae24d14c86d45be64e90b17b6a9e66" name="doc/how_to_make_theme.md" role="data" />
-   <file baseinstalldir="/" md5sum="7ca60a03619db535d001fce5653a3908" name="doc/img/basic.png" role="data" />
-   <file baseinstalldir="/" md5sum="9081f517b6a42fa3997f56b09cb95814" name="doc/img/cerulean.png" role="data" />
-   <file baseinstalldir="/" md5sum="2d0cdeeb23456b99359d25fd51606053" name="doc/img/setting.png" role="data" />
-   <file baseinstalldir="/" md5sum="62451d73c4cb10bf18d768900e8eee83" name="doc/img/superhero.png" role="data" />
-   <file baseinstalldir="/" md5sum="140fa80cde66fb18353bee18b2283f24" name="doc/img/united.png" role="data" />
    <file baseinstalldir="/" md5sum="fba1e823799e23941d085a5bd47598b5" name="lib/event/opThemeEvent.class.php" role="data" />
    <file baseinstalldir="/" md5sum="a17c8c2c2accf952a2cba0d4d545c924" name="lib/theme/opTheme.class.php" role="data" />
    <file baseinstalldir="/" md5sum="d60e3c057c66042768c6bd10e9d8c19d" name="lib/theme/opThemeAssetSearch.class.php" role="data" />
@@ -212,6 +207,21 @@ alpha release.
    <version>
     <release>0.9.3</release>
     <api>0.9.3</api>
+   </version>
+   <stability>
+    <release>alpha</release>
+    <api>alpha</api>
+   </stability>
+   <date>2012-12-13</date>
+   <license>Apache</license>
+   <notes>
+alpha release.
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>0.9.4</release>
+    <api>0.9.4</api>
    </version>
    <stability>
     <release>alpha</release>
